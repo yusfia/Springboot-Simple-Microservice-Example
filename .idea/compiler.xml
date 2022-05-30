@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
+        <module name="plusserver (1)" />
+        <module name="gateserver" />
+        <module name="minusserver" />
+        <module name="minusserver (1)" />
+        <module name="plusserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eurekaserver" target="1.8" />
+      <module name="gateserver" target="1.8" />
+      <module name="minusserver" target="1.8" />
+      <module name="minusserver (1)" target="1.8" />
+      <module name="plusserver" target="1.8" />
+      <module name="plusserver (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eurekaserver" options="-parameters" />
+      <module name="gateserver" options="-parameters" />
+      <module name="minusserver" options="-parameters" />
+      <module name="minusserver (1)" options="-parameters" />
+      <module name="plusserver" options="-parameters" />
+      <module name="plusserver (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

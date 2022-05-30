@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple Micro Service Project.iml" filepath="$PROJECT_DIR$/.idea/Simple Micro Service Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateserver/gateserver.iml" filepath="$PROJECT_DIR$/gateserver/gateserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minusserver/minusserver.iml" filepath="$PROJECT_DIR$/minusserver/minusserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minusserver2/minusserver (1).iml" filepath="$PROJECT_DIR$/minusserver2/minusserver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/plusserver/plusserver.iml" filepath="$PROJECT_DIR$/plusserver/plusserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plusserver2/plusserver (1).iml" filepath="$PROJECT_DIR$/plusserver2/plusserver (1).iml" />
+    </modules>
+  </component>
+</project>
